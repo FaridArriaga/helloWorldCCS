@@ -12,5 +12,9 @@ int main(void)
 	printf("Print branch1\n");
 	printf("Print branch1\n");
 
+    printf("Print branch2\n");
+    printf("Print branch2\n");
+    printf("Print branch2\n");
+
 	return 0;
 }
